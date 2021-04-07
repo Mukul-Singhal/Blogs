@@ -1,0 +1,7 @@
+//Babel preset config
+
+{
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
